@@ -7,7 +7,8 @@ import { demoCardFormParameters } from './demodata/demodata'
 
 import stripe from 'tipsi-stripe';
 stripe.setOptions({
-  publishablekey:
+    publishableKey:
+
     'pk_test_51I9mNxJLyDwdU00vtTCSRCZwklRXCe9ZmUIkfASbeUkdr6J583lo9fS0z5wmMG84drNTMUDrlRBsd1K30CbzFH2y00jH98SrLp',
 });
 
